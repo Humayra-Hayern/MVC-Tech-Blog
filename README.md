@@ -60,9 +60,22 @@ THEN I am signed out of the site
 WHEN I am idle on the site for more than a set time
 THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments
 ```
+## Instructions
+Requires Node.js, Express.js, Sequelize, mysql2. Clone the repo and Use the following command lines:
+
+``` cd MVC-Tech-Blog ```
+
+``` npm i ```
+
+``` node server.js ```
+
+Log in or signup if you're not already a member.
+Once logged in, user can view his dashboard including posts and comments.
+User can edit,delete and add new tech blog posts.
+User can also add comments on other developer posts.
 
 ## Link 
-* 
+* https://techbloghh.herokuapp.com/
 
 ## Credits
 University of Birmingham
