@@ -1,5 +1,6 @@
 # 14) MVC-Tech-Blog
-A CMS-style blog site, where developers can publish their blog posts and comment on other developer's posts as well.
+A CMS-style blog site, where developers can publish their blog posts and comment on other developer's posts as well. Allows users to log in / signup if they are not already a member. Once logged in, the user can view their dashboard including posts and comments. The user can edit, delete, add new tech blog posts and also comment on other posts.
+
 
 ## User Story
 
@@ -74,10 +75,6 @@ Requires Node.js, Express.js, Sequelize, mysql2. Clone the repo and Use the foll
 ## Appearance 
 
 
-Log in or signup if you're not already a member.
-Once logged in, user can view his dashboard including posts and comments.
-User can edit,delete and add new tech blog posts.
-User can also add comments on other developer posts.
 
 ## Link 
 * https://techbloghh.herokuapp.com/
