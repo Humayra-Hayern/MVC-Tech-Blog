@@ -67,7 +67,12 @@ Requires Node.js, Express.js, Sequelize, mysql2. Clone the repo and Use the foll
 
 ``` npm i ```
 
+``` source db/schema.sql ```
+
 ``` node server.js ```
+
+## Appearance 
+
 
 Log in or signup if you're not already a member.
 Once logged in, user can view his dashboard including posts and comments.
