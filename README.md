@@ -73,11 +73,12 @@ Requires Node.js, Express.js, Sequelize, mysql2. Clone the repo and Use the foll
 ``` node server.js ```
 
 ## Appearance 
+![image](https://user-images.githubusercontent.com/95111780/179327731-7f7b2e91-919b-4822-980a-225d361b9af7.png)
 
 
 
 ## Link 
-* https://techbloghh.herokuapp.com/
+* https://sleepy-scrubland-27132.herokuapp.com/
 
 ## Credits
 University of Birmingham
