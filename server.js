@@ -38,8 +38,6 @@ app.use(express.static(path.join(__dirname, "public")));
 
 app.use(require("./controllers/"));
 
-app.use("/static", express.static("./static/"));
-
 app.listen(PORT, () => {
   console.log("App listening on port ${PORT}!");
   sequelize.sync({ force: false });
