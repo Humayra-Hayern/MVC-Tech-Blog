@@ -73,7 +73,9 @@ Requires Node.js, Express.js, Sequelize, mysql2. Clone the repo and Use the foll
 ``` node server.js ```
 
 ## Appearance 
-![image](https://user-images.githubusercontent.com/95111780/179327731-7f7b2e91-919b-4822-980a-225d361b9af7.png)
+The image below displays the website's appearance and functionality.
+
+![image](https://user-images.githubusercontent.com/95111780/179327911-f6ee9c7e-f6dc-4148-a474-ebc34055066b.png)
 
 
 
