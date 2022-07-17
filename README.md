@@ -75,9 +75,8 @@ Requires Node.js, Express.js, Sequelize, mysql2. Clone the repo and Use the foll
 ## Appearance 
 The image below displays the website's appearance and functionality.
 
-![image](https://user-images.githubusercontent.com/95111780/179327911-f6ee9c7e-f6dc-4148-a474-ebc34055066b.png)
 
-
+![image](https://user-images.githubusercontent.com/95111780/179382650-baaed54b-5e53-48b3-ad8a-71b9ddf5e1de.png)
 
 ## Link 
 * https://sleepy-scrubland-27132.herokuapp.com/
