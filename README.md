@@ -1,5 +1,15 @@
 # 14) MVC-Tech-Blog
-A CMS-style blog site, where developers can publish their blog posts and comment on other developer's posts as well. Allows users to log in / signup if they are not already a member. Once logged in, the user can view their dashboard including posts and comments. The user can edit, delete, add new tech blog posts and also comment on other posts.
+A CMS-style blog site, where developers can publish their blog posts and comment on other developer's posts as well. Allows users to log in / signup if they are not already a member. Once logged in, the user can view their dashboard including posts and comments. The user can edit, delete, add new tech blog posts and also comment on other posts. For this project I utilised the following technologies:
+
+* Javascript
+* CSS
+* Node.js
+* MySQL
+* JAWSdb
+* Heroku
+* Sequelize
+* Express.js
+* Handlebars
 
 
 ## User Story
@@ -61,16 +71,7 @@ THEN I am signed out of the site
 WHEN I am idle on the site for more than a set time
 THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments
 ```
-## Instructions
-Requires Node.js, Express.js, Sequelize, mysql2. Clone the repo and Use the following command lines:
 
-``` cd MVC-Tech-Blog ```
-
-``` npm i ```
-
-``` source db/schema.sql ```
-
-``` node server.js ```
 
 ## Appearance 
 The image below displays the website's appearance and functionality.
