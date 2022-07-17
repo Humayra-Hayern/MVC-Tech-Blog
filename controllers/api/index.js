@@ -1,11 +1,19 @@
-const router = require("express").Router();
+// An index file that collects API routes and exports them for use
 
-const userRoutes = require("./user-routes.js");
+// Dependencies
+// Server connection
+const router = require("express").Router();
+// User Routes
+const userRoutes = require("./user-routes");
+// Post Routes
 const postRoutes = require("./post-routes");
+// Comment Routes
 const commentRoutes = require("./comment-routes");
 
-router.use("/user", userRoutes);
-router.use("/post", postRoutes);
-router.use("/comment", commentRoutes);
+// Create a routing path for the API to follow, e.g. api/users/
+router.use("/users", userRoutes);
+router.use("/posts", postRoutes);
+router.use("/comments", commentRoutes);
 
+// Export the router
 module.exports = router;
